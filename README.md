@@ -8,3 +8,5 @@ The python code should be commented sufficiently but in case something is unclea
 
 Disclaimer: I will not guide you through how to setup python on your machine. 
 There are way better guides and Tutorials out there that you can follow.
+
+Disclaimer 2: This stuff is heavily WIP and ill keep inprooving on it, check back in to see if i changed shit. Thanks

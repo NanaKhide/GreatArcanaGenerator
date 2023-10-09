@@ -1,7 +1,5 @@
 import random
 import json
-import os
-import time
 
 jsonFile = "GreatArcana.json"
 draws = 3
